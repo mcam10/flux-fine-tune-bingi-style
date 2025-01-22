@@ -1,6 +1,6 @@
 # Flux Fine-tuning
 
-This is an example repo for **fine-tuning and publishing your own custom [Flux](https://replicate.com/blog/fine-tune-flux-with-faces) model** using [Replicate](https://replicate.com) and [GitHub Actions](https://github.com/features/actions).
+This is a repo for **fine-tuning and publishing your own custom [Flux](https://replicate.com/blog/fine-tune-flux-with-faces) model** using [Replicate](https://replicate.com) and [GitHub Actions](https://github.com/features/actions).
 
 ## Preqrequisites
 
